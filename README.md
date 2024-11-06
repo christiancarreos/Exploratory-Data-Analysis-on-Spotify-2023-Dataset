@@ -1,3 +1,5 @@
+# Carreos 2ECE-C
+
 # Exploratory-Data-Analysis-on-Spotify-2023-Dataset
 
 # Objectives
@@ -26,20 +28,19 @@ The rows and columns of the dataset, data types of each column, and if there are
 2. The top 5 most frequent artists based on the number of tracks in the dataset
  
 ## Temporal Trends
-
-Analyze the trends in the number of tracks released over time. Plot the number of tracks released per year.
-Does the number of tracks released per month follow any noticeable patterns? Which month sees the most releases?
+1. Analysis of the trends in the number of tracks released over time and the plotted number of tracks released per year.
+2. Month with the most releases
 
 ## Genre and Music Characteristics
-
-Examine the correlation between streams and musical attributes like bpm, danceability_%, and energy_%. Which attributes seem to influence streams the most?
-Is there a correlation between danceability_% and energy_%? How about valence_% and acousticness_%?
+1. The correlation between streams and musical attributes like bpm, danceability_%, and energy_%.
+2. The correlation between danceability_% and energy_%.
+3. The correlation between valence_% and acousticness_%.
 
 ## Platform Popularity
-
-How do the numbers of tracks in spotify_playlists, spotify_charts, and apple_playlists compare? Which platform seems to favor the most popular tracks?
+1. Comparison of number of tracks in in_spotify_playlists, in_spotify_charts, and in_apple_playlists
+2. Platform that seems to favor the most popular tracks.
  
 ## Advanced Analysis
-
-Based on the streams data, can you identify any patterns among tracks with the same key or mode (Major vs. Minor)?
-Do certain genres or artists consistently appear in more playlists or charts? Perform an analysis to compare the most frequently appearing artists in playlists or charts
+1. Analysis of data of patterns among tracks with same key or mode.
+2. Analysis that compare the most frequently appearing artists in playlists or charts
+ 

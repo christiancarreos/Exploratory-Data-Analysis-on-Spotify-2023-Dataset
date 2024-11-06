@@ -17,12 +17,13 @@ The main objective is to perform an exploratory data analysis (EDA) on the datas
 The rows and columns of the dataset, data types of each column, and if there are missing values.
 
 ## Basic Descriptive Statistics
-The mean, median, and standard deviation of the streams column
-The distribution of released_year and artist_count
-Analysis if there are noticeable trends or outliers
+1.The mean, median, and standard deviation of the streams column
+2. The distribution of released_year and artist_count
+3. Analysis if there are noticeable trends or outliers
 
 ## Top Performers
-The top 5 most streamed tracks   The top 5 most frequent artists based on the number of tracks in the dataset
+1. The top 5 most streamed tracks
+2. The top 5 most frequent artists based on the number of tracks in the dataset
  
 ## Temporal Trends
 

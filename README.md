@@ -22,8 +22,7 @@ The distribution of released_year and artist_count
 Analysis if there are noticeable trends or outliers
 
 ## Top Performers
-The top 5 most streamed tracks
-The top 5 most frequent artists based on the number of tracks in the dataset
+The top 5 most streamed tracks   The top 5 most frequent artists based on the number of tracks in the dataset
  
 ## Temporal Trends
 

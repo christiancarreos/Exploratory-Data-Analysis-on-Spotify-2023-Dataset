@@ -13,6 +13,13 @@ The main objective is to perform an exploratory data analysis (EDA) on the datas
 6. Identify the top performers and the top most streamed tracks.
 7. Compare the appearance of tracks on different streaming platforms.
 
+# Libraries used for the code
+1. numpy
+2. pandas
+3. matplot
+4. seaborn
+
+
 
 ## Overview of Dataset
 
@@ -43,4 +50,11 @@ The rows and columns of the dataset, data types of each column, and if there are
 ## Advanced Analysis
 1. Analysis of data of patterns among tracks with same key or mode.
 2. Analysis that compare the most frequently appearing artists in playlists or charts
+
+## Challenges faced while coding
+1. Missing values on the given dataset.
+2. Analyzing large datasets slowed down the coding process
+3. Analyzing the relationships of the given variables with necessary plotting and visualization.
+4. Determining the appropriate codes in order to execute what is being asked to do for the Exploratory Data Analysis.
+   
  

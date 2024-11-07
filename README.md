@@ -7,7 +7,7 @@ The main objective is to perform an exploratory data analysis (EDA) on the datas
 
 1. Understand the structure of the data given.
 2. Check the dataset for missing values in preparation for analysis.
-3. Calculate the summary statistics to gain insights into streaming and musical patterns.
+3. Calculate the statistics to gain insights into musical patterns.
 4. Visualize trends and patterns in a given period and based on the different musical attributes given on the dataset.
 5. Analyze and explore the correlations between the variables to understand its relationship.
 6. Identify the top performers and the top most streamed tracks.
